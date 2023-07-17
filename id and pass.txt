@@ -1,0 +1,9 @@
+Admin
+
+admin@moflix.com
+123456
+
+User
+
+user@moflix.com
+123456
