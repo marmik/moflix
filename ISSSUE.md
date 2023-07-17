@@ -15,8 +15,8 @@ When clicking on the movie image, the expected behavior is for the single-movie.
 - Clicking on "Watch Now" successfully redirects to the player page.
 - However, the player.view.php file does not seem to be working as expected, and the iframe code is not being displayed for movies.
 
-![Screenshot - Single Movie View]("C:\Users\marmi\OneDrive\Pictures\movie.png")
-![Screenshot - Player View]("C:\Users\marmi\OneDrive\Pictures\playmovie.png")
+![Screenshot - Single Movie View](C:/Users/marmi/OneDrive/Pictures/movie.png)
+![Screenshot - Player View](C:/Users/marmi/OneDrive/Pictures/playmovie.png)
 
 ## Issue: Player Not Performing for Songs
 
@@ -37,4 +37,4 @@ In the case of songs, when clicking on "Listen Now," the expected behavior is to
 
 Please find attached a video demonstrating the issues mentioned above:
 
-[Download Issue Video]("C:\Users\marmi\Downloads\MoFlix and 3 more pages - Personal - Microsoft​ Edge 2023-04-15 22-52-24.mp4")
+[Download Issue Video](C:/Users/marmi/Downloads/MoFlix_and_3_more_pages-Personal-Microsoft_Edge_2023-04-15_22-52-24.mp4)
